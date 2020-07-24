@@ -71,7 +71,14 @@ header ul li a:active, footer ul li a:active{
 }
 
 h2{
-    color: #272838
+    color: #272838;
+    margin-left: 10px;
+}
+h3{
+    margin-left: 10px;
+}
+h4{
+    margin-left: 10px;
 }
 
 /*Empezando blog*/
