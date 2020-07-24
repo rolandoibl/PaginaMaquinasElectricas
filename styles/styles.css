@@ -1,5 +1,5 @@
 body{
-    background-color: #f4f4f4;
+    background-color: #989fce;
     margin: 0px;
     padding: 0px;
 }
@@ -10,9 +10,8 @@ article{
 
 h1{
     font-family: sans-serif;
-    color: darkblue;
+    color: #272838;
     padding: 20px 10px 20px 10px;
-    border: 1px solid brown;
     margin: 0px;
 }
 
@@ -21,7 +20,7 @@ h1{
 }
 
 header,footer{
-    background-color: darkmagenta;
+    background-color: #347fca;
     line-height: 40px;
 }
 
@@ -43,7 +42,8 @@ header ul li, footer ul li{
 }
 
 header ul li a, footer ul li a{
-    color: white;
+    columns: #989fce;
+    color: #FFFF;
     text-decoration: none;
     padding: 10px;
     border-radius: 10px;
@@ -51,11 +51,11 @@ header ul li a, footer ul li a{
 }
 
 header ul li a:hover, footer ul li a:hover{
-    background-color: #35d0ba;
+    background-color: #275e91;
 }
 
 header ul li a:active, footer ul li a:active{
-    background-color: #15a07a;
+    background-color: #2b68a1;
 }
 
 .maquina_electrica{
@@ -70,6 +70,10 @@ header ul li a:active, footer ul li a:active{
     font-size: 1cm;
 }
 
+h2{
+    color: #272838
+}
+
 /*Empezando blog*/
 .container__info{
     float: left;
@@ -81,7 +85,7 @@ header ul li a:active, footer ul li a:active{
 }
 
 .container__content h2, .more{
-    color: #d92027;
+    color: darkred;
 }
 
 .more{
@@ -89,19 +93,19 @@ header ul li a:active, footer ul li a:active{
 }
 
 .author{
-    color:#4f8a8b;
+    color: #79688D;
 }
 
 hr{
     width: 95%;
     height: 5px;
-    background-color: #f4f4f4;
+    background-color: #babfde;
     border-radius: 5px;
     border: none;
 }
 
 #container__section{
-    background-color: white;
+    background-color: #acb2d8;
     margin: 20px;
     border-radius: 10px;
 }
@@ -126,7 +130,7 @@ hr{
 }
 
 .container__hero h2{
-    color: #d92027;
+    color: #5d536b;
 }
 
 .container__hero p:first-child {
