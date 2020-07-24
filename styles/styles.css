@@ -135,3 +135,9 @@ hr{
 }
 
 /*Terminando blog*/
+.lista li{
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*Iniciando vídeos*/
